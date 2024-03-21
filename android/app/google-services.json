@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977377121603",
+    "project_id": "eatapp-77ca2",
+    "storage_bucket": "eatapp-77ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977377121603:android:f1f2b0e44560c4de2c0bf6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977377121603-kehc1a6el125h6vic1jh3jdhj4dh3a8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoB_YBHyFkGzYdMPh5u3YWa0TWQFrx3Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977377121603-kehc1a6el125h6vic1jh3jdhj4dh3a8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
